@@ -1,4 +1,4 @@
-# 
+# 独家 meme coin sniper bot 脚本 Mac OS版 | 高级 meme coin sniper bot 脚本 PC Windows版。集成 套利扫描 和 交易签名，跨平台性能最大化。
 
 
 
